@@ -10,6 +10,7 @@ https://www.kaggle.com/gpandi007/usa-housing-dataset
 
 # Ficheros del código fuente
 ● src/Práctica_2_Limpieza_y_análisis_de_datos.ipynb
+
 ● src/Práctica_2_Limpieza_y_análisis_de_datos.pdf
 
 # Licencia
