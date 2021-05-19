@@ -9,7 +9,7 @@ Este set de datos contiene diferentes precios de venta con respecto al tipo de c
 https://www.kaggle.com/gpandi007/usa-housing-dataset
 
 # Ficheros del código fuente
-● src/Practica 1.ipynb
+● src/Práctica_2_Limpieza_y_análisis_de_datos.ipynb
 
 # Licencia
 El contenido de este proyecto esta licencia bajo la Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International, y el código fuente usadao para mostrar este contenido esta licenciado bajo la MIT license.
