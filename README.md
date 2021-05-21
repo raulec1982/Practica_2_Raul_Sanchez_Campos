@@ -13,5 +13,7 @@ https://www.kaggle.com/gpandi007/usa-housing-dataset
 
 ● src/Práctica_2_Limpieza_y_análisis_de_datos.pdf
 
+● src/Práctica_2_Limpieza_y_análisis_de_datos.html
+
 # Licencia
 El contenido de este proyecto esta licencia bajo la Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International, y el código fuente usadao para mostrar este contenido esta licenciado bajo la MIT license.
